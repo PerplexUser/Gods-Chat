@@ -1,0 +1,14 @@
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\GODs Chat.csprojResolveAssemblyReference.cache
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\GODs Chat.csproj.GenerateResource.Cache
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\tn\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
